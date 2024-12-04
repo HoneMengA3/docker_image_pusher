@@ -15,3 +15,4 @@ ddsderek/xiaoyakeeper
 ddsderek/xiaoya-115cleaner
 ddsderek/xiaoya-proxy
 linuxserver/resilio-sync
+containrrr/watchtowe
