@@ -1,1 +1,2 @@
 lovechen/embyserver
+lscr.io/linuxserver/jellyfin
