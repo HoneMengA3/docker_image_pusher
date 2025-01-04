@@ -18,3 +18,5 @@ linuxserver/resilio-sync
 containrrr/watchtowe
 
 nyanmisaka/jellyfin:240220-amd64-legacy
+
+lovechen/embyserver
